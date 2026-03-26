@@ -8,41 +8,53 @@ Aspiring AI/ML Engineer | Data Science | Machine Learning.
 🔭 I’m currently working on Data science & web development  <br>🌱 Learning Machine Learning, AI, and Full Stack Development<br>💡 Interested in solving real-world problems using data<br>🎯 Goal: To become a Data Scientist / AI Engineer
 
 🛠️ Skills & Technologies
+
 💻 Programming
+
 Python
 SQL
 c++
+
 📊 Data Science
+
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
 🌐 Web Development
- Django
+
+Django
 HTML, CSS, Bootstrap
+
 ⚙️ Tools
+
 Git & GitHub
 VS Code
 Jupyter Notebook
 
 
 📌  Projects
-Student Result Management System
+
+Student Result Management System:
+
 Developed a system to automate academic record management
 Enabled faculty to manage results and generate reports efficiently
 Allowed students to securely access their results online
 Tech Stack: Python/PHP, MySQL, HTML, CSS, JavaScript
 Improved accuracy, security, and efficiency by reducing manual work
 
-Genetic Risk Predictor for Lifestyle Diseases
+Genetic Risk Predictor for Lifestyle Diseases:
+
 Built a Machine Learning model to predict risks of diseases like diabetes and hypertension
 Performed data preprocessing and feature selection using Pandas and NumPy
 Implemented models using Scikit-learn
 Achieved 85–90% prediction accuracy
 Tech Stack: Python, Django, Scikit-learn, Pandas, NumPy
 
- AI-Driven Career Path Recommendation System
+AI-Driven Career Path Recommendation System:
+ 
 Developed a full-stack AI web application for career recommendations
 Analyzed students’ skills, interests, and academic data
 Used Random Forest algorithm for personalized recommendations
