@@ -97,8 +97,9 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/m-p-akhil-kumar)
-[![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge\&logo=gmail)](mailto:akhilkumarmp2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/m-p-akhil-kumar)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilkumarmp2003@gmail.com) 
+
 
 ---
 
