@@ -22,13 +22,14 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
+
 ### 📊 Data Science & ML
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+* ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+*![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+*![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+*![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+*![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
 
 ### 🌐 Web Development
 
@@ -107,31 +108,6 @@
 ✨ I love **combining AI with web apps** to create impactful solutions
 
 ---
-
-## 🔥 Bonus Animations (Add at Top if you want)
-
-```md
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;Building+Smart+Solutions" />
-```
-
----
-
-## 🔹 Short Explanation
-
-* Strong verbs like **Engineered, Developed, Designed** → more impactful
-* Badges + animations → visually attractive
-* Clean sections → recruiter-friendly
-* Stats → show activity & consistency
-
----
-
-If you want next level 🚀, I can:
-
-* Add **project demo GIFs**
-* Create a **portfolio website**
-* Optimize for **TCS / placements / internships**
-
-
 
 
 
