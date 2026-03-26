@@ -26,17 +26,16 @@
 ### 📊 Data Science & ML
 
 * ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-*![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-*![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-*![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-*![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+* ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+* ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+* ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
 
 ### 🌐 Web Development
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
 
 ### ⚙️ Tools
 
