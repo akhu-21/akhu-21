@@ -81,9 +81,6 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 Contribution Streak
-
-![](https://nirzak-streak-stats.vercel.app/?user=Akhu-21\&theme=tokyonight\&hide_border=true)
 
 ### 📈 GitHub Stats
 
@@ -105,8 +102,8 @@
 
 ## ⚡ Fun Fact
 
-✨ I enjoy **building intelligent systems** that solve real-world problems
-✨ I love **combining AI with web apps** to create impactful solutions
+ * I enjoy **building intelligent systems** that solve real-world problems
+ * love **combining AI with web apps** to create impactful solutions
 
 ---
 
