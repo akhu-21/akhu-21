@@ -78,15 +78,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Akhu-21\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Akhu-21\&theme=dark\&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhu-21\&theme=dark\&hide_border=false\&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/www.linkedin.com/in/m-p-akhil-kumar](https://linkedin.com/in/www.linkedin.com/in/m-p-akhil-kumar)
-* 📧 Email: [akhilkumarmp2003@gmail.com](mailto:akhilkumarmp2003@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/m-p-akhil-kumar)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilkumarmp2003@gmail.com) 
 ---
 
 ## ⚡ Fun Fact
