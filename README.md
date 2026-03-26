@@ -1,6 +1,7 @@
 ## Hi 👋 i'am  Akhil Kumar
 Aspiring AI/ML Engineer | Data Science | Machine Learning.
 
+<img width="1109" height="2" alt="image" src="https://github.com/user-attachments/assets/db4786f4-ce2d-4ace-a337-b4fe66915f95" />
 
 
 # 💫 About Me:
