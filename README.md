@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Akhil Kumar
 
 **🚀 Aspiring AI/ML Engineer | Data Science Enthusiast | Full-Stack Developer**
