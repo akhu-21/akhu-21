@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Akhil Kumar
-
-**🚀 Aspiring AI/ML Engineer | Data Science Enthusiast | Full-Stack Developer**
+ <h1 align="center">👋 Hi, I'm Akhil Kumar</h1>
+ 
+ <h3 align="center">🚀 Aspiring AI/ML Engineer | Data Science Enthusiast | Full-Stack Developer </h3>
 
 ---
 
