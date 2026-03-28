@@ -7,10 +7,9 @@
 ## 💫 About Me
 
 * 🔭 **Building** data-driven and scalable web applications
-* 🌱 **Advancing skills in** Machine Learning, AI, and Full Stack Development
+* 🌱 **Advancing skills in** Machine Learning, AI, and Data Science & Web Development projects
 * 💡 **Passionate about solving** real-world problems using intelligent systems
 * 🎯 **Focused on becoming** a Data Scientist / AI Engineer
-
 ---
 
 ## 🛠️ Skills & Technologies
