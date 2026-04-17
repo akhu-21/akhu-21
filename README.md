@@ -43,7 +43,7 @@
 *  VS Code 
 * Jupyter 
 
----
+----
 
 ## 📌 Projects
 
@@ -92,7 +92,6 @@
  * I enjoy **building intelligent systems** that solve real-world problems
  * love **combining AI with web apps** to create impactful solutions
 
----
 
 
 
