@@ -75,7 +75,6 @@
 * **Achieved** **88% accuracy**
 * **Tech Stack:** Django, ML, JavaScript
 
- 
 ---
 
 ## 🌐 Connect With Me
